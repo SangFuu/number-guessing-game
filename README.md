@@ -4,8 +4,6 @@ I created this small personal project in C to practise conditions, loops and key
 
 The goal is to guess a number between 0 and 100 in five attempts. After each wrong answer, the program tells you whether the target number is higher or lower.
 
-Some files still use the name “Pendu”, but the game in this repository is a C terminal program.
-
 ## Build and play
 
 With GCC:
